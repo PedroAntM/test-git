@@ -7,3 +7,5 @@ Repositorio prueba
 Ejercicios de git
 
 ![](C:\Users\paman\Desktop\Screenshot 2022-01-20 194706.png)
+
+![](C:\Users\paman\Desktop\network.png)
